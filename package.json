@@ -1,5 +1,5 @@
 {
-  "name": "rutole-rode-technology",
+  "name": "rutole-roade-technology",
   "version": "1.0.0",
   "description": "An advanced technology to detect potholes and alert users to their presence.",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Dtoo007/Rutole-Advanced-Road-Technology#readme",
   "devDependencies": {
     "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.9"
   }
 }
