@@ -1,0 +1,23 @@
+{
+  "name": "rutole-rode-technology",
+  "version": "1.0.0",
+  "description": "An advanced technology to detect potholes and alert users to their presence.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dtoo007/Rutole-Advanced-Road-Technology"
+  },
+  "author": "Dtoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dtoo007/Rutole-Advanced-Road-Technology/issues"
+  },
+  "homepage": "https://github.com/Dtoo007/Rutole-Advanced-Road-Technology#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
