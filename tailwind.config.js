@@ -22,7 +22,8 @@ module.exports = {
       colors: {
         off_white: '#F2F2F2',
         off_black: '#110F0F',
-        off_arch: '#6B6A6A'
+        off_arch: '#6B6A6A',
+        arch:'#6B6A6A'
       },
 
       fontFamily: {
