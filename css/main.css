@@ -691,6 +691,10 @@ video {
   margin-top: 0.5rem;
 }
 
+.ml-4{
+  margin-left: 1rem;
+}
+
 .block{
   display: block;
 }
@@ -813,6 +817,42 @@ video {
 
 .w-\[80\%\]{
   width: 80%;
+}
+
+.w-\[60\%\]{
+  width: 60%;
+}
+
+.w-\[85\%\]{
+  width: 85%;
+}
+
+.w-\[90\%\]{
+  width: 90%;
+}
+
+.w-\[75\%\]{
+  width: 75%;
+}
+
+.w-\[73\%\]{
+  width: 73%;
+}
+
+.w-\[88\%\]{
+  width: 88%;
+}
+
+.w-\[92\%\]{
+  width: 92%;
+}
+
+.w-\[95\%\]{
+  width: 95%;
+}
+
+.w-\[78\%\]{
+  width: 78%;
 }
 
 .-rotate-45{
@@ -976,8 +1016,40 @@ video {
   background-image: url('/..images/background-image.svg');
 }
 
+.bg-\[url\(\'\.\.\\images\/background-image\.svg\'\)\]{
+  background-image: url('..\images/background-image.svg');
+}
+
+.bg-\[url\(\'\.\.\/images\/background-image\.svg\'\)\]{
+  background-image: url('../images/background-image.svg');
+}
+
 .bg-cover{
   background-size: cover;
+}
+
+.bg-auto{
+  background-size: auto;
+}
+
+.bg-right{
+  background-position: right;
+}
+
+.bg-left{
+  background-position: left;
+}
+
+.bg-right-top{
+  background-position: right top;
+}
+
+.bg-right-bottom{
+  background-position: right bottom;
+}
+
+.bg-no-repeat{
+  background-repeat: no-repeat;
 }
 
 .p-2{
@@ -1158,6 +1230,10 @@ video {
 
 .pl-4{
   padding-left: 1rem;
+}
+
+.pt-20{
+  padding-top: 5rem;
 }
 
 .text-left{
